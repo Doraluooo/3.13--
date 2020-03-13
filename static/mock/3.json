@@ -1,0 +1,32 @@
+{
+  "message": "请求成功",
+  "status": "200",
+  "data": {
+    "commentList": [{
+      "businessId": 0,
+      "imgSrc": "static/img/img1.jpg",
+      "commentTxt": "最开心的事就是到了北京可以去北海公园玩儿",
+      "createAt": "2017-03-12 22:48:56"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img2.gif",
+      "commentTxt": "重庆的生活节奏特别的慢 这是我想要的生活",
+      "createAt": "2017-03-12 20:34:27"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img3.jpg",
+      "commentTxt": "每天睁开眼睛就是压力 好无奈啊",
+      "createAt": "2017-03-12 07:19:03"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img4.jpg",
+      "commentTxt": "这周看了银河补习班 不错的一部片子",
+      "createAt": "2017-03-14 13:30:39"
+
+    }]
+  }
+}
+

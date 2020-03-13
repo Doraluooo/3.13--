@@ -1,0 +1,32 @@
+{
+  "message": "请求成功",
+  "status": "200",
+  "data": {
+    "commentList": [{
+      "businessId": 0,
+      "imgSrc": "static/img/img1.jpg",
+      "commentTxt": "一看就能想到童年",
+      "createAt": "2017-03-12 22:48:56"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img2.gif",
+      "commentTxt": "一看到涂鸦的墙就知道是重庆，有文化底蕴的城市",
+      "createAt": "2017-03-12 20:34:27"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img3.jpg",
+      "commentTxt": "怀念住在北京城中村的日子 那是我们的青春啊",
+      "createAt": "2017-03-12 07:19:03"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img4.jpg",
+      "commentTxt": "希望能保护好这些古街",
+      "createAt": "2017-03-14 13:30:39"
+
+    }]
+  }
+}
+

@@ -1,0 +1,31 @@
+{
+  "message": "请求成功",
+  "status": "200",
+  "data": {
+    "commentList": [{
+      "businessId": 0,
+      "imgSrc": "static/img/img1.jpg",
+      "commentTxt": "这是一个悲伤的故事",
+      "createAt": "2017-03-12 22:48:56"
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img2.gif",
+      "commentTxt": "北京 一座你来了就不想走的城市",
+      "createAt": "2017-03-12 20:34:27"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img3.jpg",
+      "commentTxt": "南京的中山陵真的很壮观",
+      "createAt": "2017-03-12 07:19:03"
+
+    }, {
+      "businessId": 0,
+      "imgSrc": "static/img/img4.jpg",
+      "commentTxt": "希望能够去重庆吃一碗小面",
+      "createAt": "2017-03-14 13:30:39"
+
+    }]
+  }
+}
+
