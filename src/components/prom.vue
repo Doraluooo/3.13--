@@ -1,5 +1,6 @@
 <template>
   <div>
+    您高
     <ul>
       <li v-for="(item,key) in   this.$store.state.count" class="ddiv" :key="key">
         <img :src="item.imgSrc" alt="">
